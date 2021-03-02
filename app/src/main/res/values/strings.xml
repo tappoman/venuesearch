@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">venuesearch</string>
+    <string name="placeholder">placeholder</string>
+    <string name="placeholder_empty"> </string>
+    <string name="tap_to_search_location">Paikkahaku</string>
+    <string name="location_name">Nimi</string>
+    <string name="location_address">Osoite</string>
+    <string name="location_distance">Etäisyys</string>
+    <string name="permission_button_gps">Käynnistä GPS</string>
+    <string name="permission_button_gps_active">GPS aktiivinen</string>
+    <string name="permission_button_location">Myönnä sijainnin käyttöoikeus</string>
+    <string name="permission_button_location_active">Sijainnin lupa myönnetty</string>
+    <string name="permission_button_continue">Takaisin hakuun</string>
+    <string name="name"><b>Nimi: </b></string>
+    <string name="address"><b>Osoite: </b></string>
+    <string name="distance"><b>Etäisyys (m): </b></string>
+
+
+</resources>
